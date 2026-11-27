@@ -109,24 +109,24 @@ export function Screen01WelcomeScreen() {
               testID="w:1:179"
               className="absolute start-[8.7538vw] top-[14.2487vw] w-[74.359vw] h-[46.1538vw] border-[rgba(255,255,255,0.08)] border border-solid rounded-[6.1538vw]"
               colors={['rgba(26,33,49,1)', 'rgba(16,19,28,1)', 'rgba(16,19,28,1)']}
-              locations={[0, 0.6803, 1]}
-              start={{ x: -0.0368, y: 0.0976 }}
-              end={{ x: 1.0368, y: 0.9024 }}
-              angle={118}
-              style={{ transform: [{ rotate: '9deg' }] }}
+              locations={[0, 0.6768, 1]}
+              start={{ x: -0.0348, y: 0.1001 }}
+              end={{ x: 1.0348, y: 0.8999 }}
+              angle={117}
+              style={{ transform: [{ rotate: '6deg' }] }}
             ></LinearGradient>
             <LinearGradient
               testID="w:1:180"
-              className="absolute start-[4.2513vw] top-[10.2564vw] w-[76.6718vw] h-[49.9821vw] rounded-[6.1538vw]"
-              colors={['rgba(65,221,191,1)', 'rgba(91,140,255,1)', 'rgba(91,140,255,1)']}
-              locations={[0, 0.6732, 1]}
-              start={{ x: -0.0323, y: 0.1017 }}
-              end={{ x: 1.0323, y: 0.8983 }}
-              angle={116}
+              className="absolute start-[5.4077vw] top-[12.1718vw] w-[74.359vw] h-[46.1538vw] rounded-[6.1538vw]"
+              colors={['rgba(65,220,192,1)', 'rgba(91,140,255,1)', 'rgba(91,140,255,1)']}
+              locations={[0, 0.6693, 1]}
+              start={{ x: -0.0296, y: 0.1022 }}
+              end={{ x: 1.0296, y: 0.8978 }}
+              angle={115}
             >
               <Box
                 testID="w:1:181"
-                className="absolute start-[7.4718vw] top-[5.9282vw] w-[63.2718vw] h-[8.6795vw]"
+                className="absolute start-[5.641vw] top-[5.641vw] w-[63.0769vw] h-[5.3846vw]"
                 pointerEvents="box-none"
               >
                 <Box
@@ -136,18 +136,17 @@ export function Screen01WelcomeScreen() {
                   <Txt
                     testID="w:1:182"
                     accessibilityLabel={t('walez')}
-                    className="absolute start-[0.1308vw] top-[0.7769vw] text-black font-inter-700 text-[length:3.8462vw] leading-[4.6538vw] tracking-[1.2px] text-left"
+                    className="absolute start-[0vw] top-[0.3846vw] text-black font-inter-700 text-[length:3.8462vw] leading-[4.6538vw] tracking-[1.2px] text-left"
                     numberOfLines={1}
                     adjustsFontSizeToFit
                     minimumFontScale={0.65}
-                    style={{ transform: [{ rotate: '3deg' }] }}
                   >
                     {t('walez')}
                   </Txt>
                 </Box>
                 <Box
                   testID="w:1:183"
-                  className="absolute start-[44.5538vw] top-[2.3359vw] w-[18.7179vw] h-[6.3436vw] bg-background rounded-[25.3846vw]"
+                  className="absolute start-[44.6154vw] top-[0vw] w-[18.4615vw] h-[5.3846vw] bg-background rounded-[25.3846vw]"
                 >
                   <Box
                     pointerEvents="none"
@@ -156,11 +155,10 @@ export function Screen01WelcomeScreen() {
                     <Txt
                       testID="w:1:184"
                       accessibilityLabel={t('virtual')}
-                      className="absolute start-[2.6923vw] top-[1.5051vw] text-primary font-inter-600 text-[length:2.8205vw] leading-[3.4128vw] tracking-[0.66px] text-left"
+                      className="absolute start-[2.5641vw] top-[1.0256vw] text-primary font-inter-600 text-[length:2.8205vw] leading-[3.4128vw] tracking-[0.66px] text-left"
                       numberOfLines={1}
                       adjustsFontSizeToFit
                       minimumFontScale={0.65}
-                      style={{ transform: [{ rotate: '3deg' }] }}
                     >
                       {t('virtual')}
                     </Txt>
@@ -169,24 +167,74 @@ export function Screen01WelcomeScreen() {
               </Box>
               <Box
                 testID="w:1:185"
-                className="absolute start-[5.9282vw] top-[30.2538vw] w-[50.7436vw] h-[12.8744vw]"
+                className="absolute start-[5.641vw] top-[30vw] w-[43.3333vw] h-[10.5128vw]"
                 pointerEvents="box-none"
               >
                 <Box
-                  pointerEvents="none"
-                  style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0 }}
+                  testID="w:46:253"
+                  className="absolute start-[0vw] top-[0vw] w-[47.9487vw] h-[5.641vw] overflow-hidden"
+                  pointerEvents="box-none"
                 >
-                  <Txt
-                    testID="w:1:186"
-                    accessibilityLabel={t('4821_2985d3c6')}
-                    className="absolute start-[0.3718vw] top-[1.1846vw] text-black font-inter-600 text-[length:4.6154vw] leading-[5.5846vw] tracking-[0.72px] text-left"
-                    numberOfLines={1}
-                    adjustsFontSizeToFit
-                    minimumFontScale={0.65}
-                    style={{ transform: [{ rotate: '3deg' }] }}
+                  <Box
+                    pointerEvents="none"
+                    style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0 }}
                   >
-                    {t('4821_2985d3c6')}
-                  </Txt>
+                    <Txt
+                      testID="w:46:254"
+                      accessibilityLabel={t('str_e31f6545')}
+                      className="absolute start-[0vw] top-[0.641vw] w-[7.9487vw] text-black font-inter-700 text-[length:3.5897vw] leading-[4.3436vw] tracking-[1.4px] text-left"
+                      numberOfLines={1}
+                      adjustsFontSizeToFit
+                      minimumFontScale={0.65}
+                    >
+                      {t('str_e31f6545')}
+                    </Txt>
+                  </Box>
+                  <Box
+                    pointerEvents="none"
+                    style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0 }}
+                  >
+                    <Txt
+                      testID="w:46:255"
+                      accessibilityLabel={t('str_e31f6545')}
+                      className="absolute start-[10.5128vw] top-[0.641vw] w-[7.9487vw] text-black font-inter-700 text-[length:3.5897vw] leading-[4.3436vw] tracking-[1.4px] text-left"
+                      numberOfLines={1}
+                      adjustsFontSizeToFit
+                      minimumFontScale={0.65}
+                    >
+                      {t('str_e31f6545')}
+                    </Txt>
+                  </Box>
+                  <Box
+                    pointerEvents="none"
+                    style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0 }}
+                  >
+                    <Txt
+                      testID="w:46:256"
+                      accessibilityLabel={t('str_e31f6545')}
+                      className="absolute start-[21.0256vw] top-[0.641vw] w-[7.9487vw] text-black font-inter-700 text-[length:3.5897vw] leading-[4.3436vw] tracking-[1.4px] text-left"
+                      numberOfLines={1}
+                      adjustsFontSizeToFit
+                      minimumFontScale={0.65}
+                    >
+                      {t('str_e31f6545')}
+                    </Txt>
+                  </Box>
+                  <Box
+                    pointerEvents="none"
+                    style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0 }}
+                  >
+                    <Txt
+                      testID="w:46:257"
+                      accessibilityLabel={t('4821')}
+                      className="absolute start-[31.5385vw] top-[0vw] w-[11.7949vw] text-black font-inter-600 text-[length:4.6154vw] leading-[5.5846vw] tracking-[0.72px] text-left"
+                      numberOfLines={1}
+                      adjustsFontSizeToFit
+                      minimumFontScale={0.65}
+                    >
+                      {t('4821')}
+                    </Txt>
+                  </Box>
                 </Box>
                 <Box
                   pointerEvents="none"
@@ -195,11 +243,10 @@ export function Screen01WelcomeScreen() {
                   <Txt
                     testID="w:1:187"
                     accessibilityLabel={t('alex_demo')}
-                    className="absolute start-[0.0872vw] top-[7.1256vw] text-black font-inter-500 text-[length:3.0769vw] leading-[3.7231vw] text-left"
+                    className="absolute start-[0vw] top-[6.6667vw] text-black font-inter-500 text-[length:3.0769vw] leading-[3.7231vw] text-left"
                     numberOfLines={1}
                     adjustsFontSizeToFit
                     minimumFontScale={0.65}
-                    style={{ transform: [{ rotate: '3deg' }] }}
                   >
                     {t('alex_demo')}
                   </Txt>

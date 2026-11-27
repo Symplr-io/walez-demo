@@ -1,6 +1,6 @@
 {
   "appName": "WalezDigitalWalletmobilehappycase",
-  "outDir": "/tmp/gen-ZmtB0k/out/WalezDigitalWalletmobilehappycase",
+  "outDir": "/tmp/gen-ONtQYZ/out/WalezDigitalWalletmobilehappycase",
   "files": [
     ".github/workflows/ci.yml",
     ".gitignore",
@@ -224,7 +224,7 @@
   ],
   "copiedAssets": 89,
   "warnings": [],
-  "formatMs": 2476,
-  "writeMs": 200,
+  "formatMs": 2540,
+  "writeMs": 217,
   "writeCount": 219
 }
