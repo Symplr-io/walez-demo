@@ -278,7 +278,7 @@ export function CardFundReviewScreen() {
             >
               <Img
                 testID="w:3:239"
-                accessibilityLabel="icon/alert"
+                accessibilityLabel="Warning"
                 className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                 source={assets['2b11a394e40df991784fe5377a2e05c7cb295dca8ae4238365c392bfeb298705']}
                 resizeMode="cover"

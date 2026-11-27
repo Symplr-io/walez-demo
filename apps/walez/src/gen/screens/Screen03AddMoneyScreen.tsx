@@ -178,7 +178,7 @@ export function Screen03AddMoneyScreen() {
                     >
                       <Img
                         testID="w:1:873"
-                        accessibilityLabel="icon/shield-check"
+                        accessibilityLabel="Privacy-check"
                         className="absolute start-[3.0769vw] top-[1.7949vw] overflow-hidden"
                         source={
                           assets['9c834720bafb732eb74cca44375bb7ec15b660cac633442d3ecb6fbf5bbd9847']
@@ -214,7 +214,7 @@ export function Screen03AddMoneyScreen() {
                     >
                       <Img
                         testID="w:1:878"
-                        accessibilityLabel="icon/lock"
+                        accessibilityLabel="Locked"
                         className="absolute start-[3.0769vw] top-[1.7949vw] overflow-hidden"
                         source={
                           assets['156f5cfac2926bb4c9d668a3333986fa124eea0f89ae8f9afee74b8c545bd8e0']
@@ -333,7 +333,7 @@ export function Screen03AddMoneyScreen() {
                   >
                     <Img
                       testID="w:1:892"
-                      accessibilityLabel="icon/chevron-right"
+                      accessibilityLabel="Open"
                       className="absolute start-[78.7179vw] top-[7.1795vw] overflow-hidden"
                       source={
                         assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -415,7 +415,7 @@ export function Screen03AddMoneyScreen() {
                   >
                     <Img
                       testID="w:1:902"
-                      accessibilityLabel="icon/chevron-right"
+                      accessibilityLabel="Open"
                       className="absolute start-[78.7179vw] top-[7.1795vw] overflow-hidden"
                       source={
                         assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -438,7 +438,7 @@ export function Screen03AddMoneyScreen() {
             >
               <Img
                 testID="w:1:905"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                 source={assets['773241439deb4019701796b3371e0a4b19fe312f01c2a9205966764d568336a0']}
                 resizeMode="cover"

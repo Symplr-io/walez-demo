@@ -231,7 +231,7 @@ jest.mock('react-native-vision-camera', () => ({
   // render as "vc.X is not a function".
   Camera: mockView('Camera')().default,
   useCameraDevice: jest.fn(() => ({ id: 'back', position: 'back' })),
-  usePhotoOutput: jest.fn(() => ({ takePhoto: jest.fn(async () => ({ path: '/tmp/p.jpg' })) })),
+  usePhotoOutput: jest.fn(() => ({ takePhoto: jest.fn(async () => ({ path: 'file:///photos/p.jpg' })) })),
   useCameraPermission: jest.fn(() => ({
     hasPermission: true,
     canRequestPermission: true,

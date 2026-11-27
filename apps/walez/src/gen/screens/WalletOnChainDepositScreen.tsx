@@ -186,7 +186,7 @@ export function WalletOnChainDepositScreen() {
               >
                 <Img
                   testID="w:9:297"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="absolute start-[78.7179vw] top-[4.2308vw] overflow-hidden"
                   source={
                     assets['81756a4d2beaec48bb7774eb8839f877a0284beb7e79658ff681f67b0c95ebeb']
@@ -261,7 +261,7 @@ export function WalletOnChainDepositScreen() {
             >
               <Img
                 testID="w:9:290"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                 source={assets['773241439deb4019701796b3371e0a4b19fe312f01c2a9205966764d568336a0']}
                 resizeMode="cover"

@@ -162,7 +162,7 @@ export function Screen06SendByUIDScreen() {
             >
               <Img
                 testID="w:1:1644"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="absolute start-[77.6923vw] top-[7.1795vw] overflow-hidden"
                 source={assets['d02858bbf790dcef4729ed1b7bb3bb6f58c66bca346a72db697e1ddbd822d33f']}
                 resizeMode="cover"

@@ -248,7 +248,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:23:390"
-                    accessibilityLabel="icon/plus"
+                    accessibilityLabel="Add"
                     className="overflow-hidden"
                     source={
                       assets['f65c9a3b826f057bf242892151f902ef42f7ba106ee3f3ad193818809d4a167f']
@@ -277,7 +277,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:23:395"
-                    accessibilityLabel="icon/lock"
+                    accessibilityLabel="Locked"
                     className="overflow-hidden"
                     source={
                       assets['b3079258ce6b3622f94035b890563783491cc8a980c155073cb0cdf91a4f4c2c']
@@ -306,7 +306,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:23:400"
-                    accessibilityLabel="icon/eye"
+                    accessibilityLabel="Show"
                     className="overflow-hidden"
                     source={
                       assets['c089d08f1af5778c3512cbfb8696a3fbe2f8c122f25c8bf20b378e21731696ef']
@@ -381,7 +381,7 @@ export function CardFrozenScreen() {
                 </Box>
                 <Img
                   testID="w:23:413"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -439,7 +439,7 @@ export function CardFrozenScreen() {
                 </Box>
                 <Img
                   testID="w:23:423"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -497,7 +497,7 @@ export function CardFrozenScreen() {
                 </Box>
                 <Img
                   testID="w:23:433"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -523,7 +523,7 @@ export function CardFrozenScreen() {
             >
               <Img
                 testID="w:23:437"
-                accessibilityLabel="icon/lock"
+                accessibilityLabel="Locked"
                 className="absolute start-[4.359vw] top-[2.9487vw] overflow-hidden"
                 source={assets['d19855c3a1a1e96ef098423154c81587b02a387a90b3784be83cb87931e7d471']}
                 resizeMode="cover"
@@ -583,7 +583,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:I23:435;1:55"
-                    accessibilityLabel="icon/home"
+                    accessibilityLabel="Home"
                     className="overflow-hidden"
                     source={
                       assets['78e488b34ca787f73a3a43ac24191280f802e72244568fdb5d34ab2594ad8d62']
@@ -615,7 +615,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:I23:435;1:60"
-                    accessibilityLabel="icon/card"
+                    accessibilityLabel="Card"
                     className="overflow-hidden"
                     source={
                       assets['7d0732644cd3cb5d017f43a51e47b3e2205a512eb35a826595d008f2ce5b235e']
@@ -648,7 +648,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:I23:435;1:65"
-                    accessibilityLabel="icon/swap"
+                    accessibilityLabel="Exchange"
                     className="overflow-hidden"
                     source={
                       assets['9ea5b57732c56d367bc2802ea712baf0c2f89a71fbec053037f96732aa8b5138']
@@ -681,7 +681,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:I23:435;1:72"
-                    accessibilityLabel="icon/clock"
+                    accessibilityLabel="Time"
                     className="overflow-hidden"
                     source={
                       assets['2b2734e787fc2003abb364f21636573594ac5019445ae659a5f5a1d92a46ae6a']
@@ -714,7 +714,7 @@ export function CardFrozenScreen() {
                 >
                   <Img
                     testID="w:I23:435;1:77"
-                    accessibilityLabel="icon/user"
+                    accessibilityLabel="Account"
                     className="overflow-hidden"
                     source={
                       assets['5075ae8038b434223a2d82c7af3caa5906acdad6ffcfdf3080a2a8fecd8539b0']

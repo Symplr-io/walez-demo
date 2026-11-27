@@ -200,7 +200,7 @@ export function OnboardingCountryScreen() {
                 </Box>
                 <Img
                   testID="w:43:254"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -261,7 +261,7 @@ export function OnboardingCountryScreen() {
                 </Box>
                 <Img
                   testID="w:43:257"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -322,7 +322,7 @@ export function OnboardingCountryScreen() {
                 </Box>
                 <Img
                   testID="w:43:260"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -394,7 +394,7 @@ export function OnboardingCountryScreen() {
             >
               <Img
                 testID="w:43:263"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                 source={assets['773241439deb4019701796b3371e0a4b19fe312f01c2a9205966764d568336a0']}
                 resizeMode="cover"

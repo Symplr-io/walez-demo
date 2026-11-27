@@ -139,7 +139,7 @@ export function OnboardingReviewActionNeededScreen() {
                   >
                     <Img
                       testID="w:18:246"
-                      accessibilityLabel="icon/tick"
+                      accessibilityLabel="Done"
                       className="overflow-hidden"
                       source={
                         assets['049e4151689e00b1b3da8c92f94c4d14c0cbe427fb4970d796559c6d233f938d']
@@ -188,7 +188,7 @@ export function OnboardingReviewActionNeededScreen() {
                   >
                     <Img
                       testID="w:18:253"
-                      accessibilityLabel="icon/tick"
+                      accessibilityLabel="Done"
                       className="overflow-hidden"
                       source={
                         assets['049e4151689e00b1b3da8c92f94c4d14c0cbe427fb4970d796559c6d233f938d']
@@ -232,7 +232,7 @@ export function OnboardingReviewActionNeededScreen() {
                 >
                   <Img
                     testID="w:18:270"
-                    accessibilityLabel="icon/alert"
+                    accessibilityLabel="Warning"
                     className="overflow-hidden"
                     source={
                       assets['bc5130835f613883ec4f4fd45f397d2d32977bd94a6613ba0649f69e69777cbf']

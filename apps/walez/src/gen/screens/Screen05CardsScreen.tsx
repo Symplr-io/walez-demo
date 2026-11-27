@@ -247,7 +247,7 @@ export function Screen05CardsScreen() {
                 >
                   <Img
                     testID="w:1:1469"
-                    accessibilityLabel="icon/plus"
+                    accessibilityLabel="Add"
                     className="overflow-hidden"
                     source={
                       assets['f65c9a3b826f057bf242892151f902ef42f7ba106ee3f3ad193818809d4a167f']
@@ -276,7 +276,7 @@ export function Screen05CardsScreen() {
                 >
                   <Img
                     testID="w:1:1474"
-                    accessibilityLabel="icon/lock"
+                    accessibilityLabel="Locked"
                     className="overflow-hidden"
                     source={
                       assets['b3079258ce6b3622f94035b890563783491cc8a980c155073cb0cdf91a4f4c2c']
@@ -305,7 +305,7 @@ export function Screen05CardsScreen() {
                 >
                   <Img
                     testID="w:1:1479"
-                    accessibilityLabel="icon/eye"
+                    accessibilityLabel="Show"
                     className="overflow-hidden"
                     source={
                       assets['c089d08f1af5778c3512cbfb8696a3fbe2f8c122f25c8bf20b378e21731696ef']
@@ -380,7 +380,7 @@ export function Screen05CardsScreen() {
                 </Box>
                 <Img
                   testID="w:1:1492"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -438,7 +438,7 @@ export function Screen05CardsScreen() {
                 </Box>
                 <Img
                   testID="w:1:1502"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -496,7 +496,7 @@ export function Screen05CardsScreen() {
                 </Box>
                 <Img
                   testID="w:1:1512"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']

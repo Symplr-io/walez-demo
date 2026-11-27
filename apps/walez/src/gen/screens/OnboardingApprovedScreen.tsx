@@ -137,7 +137,7 @@ export function OnboardingApprovedScreen() {
                 >
                   <Img
                     testID="w:17:234"
-                    accessibilityLabel="icon/tick"
+                    accessibilityLabel="Done"
                     className="absolute start-[0vw] top-[0.3846vw] overflow-hidden"
                     source={
                       assets['049e4151689e00b1b3da8c92f94c4d14c0cbe427fb4970d796559c6d233f938d']
@@ -198,7 +198,7 @@ export function OnboardingApprovedScreen() {
                 >
                   <Img
                     testID="w:17:237"
-                    accessibilityLabel="icon/tick"
+                    accessibilityLabel="Done"
                     className="absolute start-[0vw] top-[0.3846vw] overflow-hidden"
                     source={
                       assets['049e4151689e00b1b3da8c92f94c4d14c0cbe427fb4970d796559c6d233f938d']

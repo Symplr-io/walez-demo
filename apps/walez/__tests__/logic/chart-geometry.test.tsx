@@ -6,7 +6,6 @@ import renderer, { act } from 'react-test-renderer';
 import {
   Chart,
   barPath,
-  barRects,
   donutArcs,
   resolveChartProps,
 } from '../../src/gen/components/chart';

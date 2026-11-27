@@ -543,7 +543,7 @@ export function OnboardingScanIDFrontScreen() {
               >
                 <Img
                   testID="w:14:250"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="absolute start-[0vw] top-[0vw] overflow-hidden"
                   source={
                     assets['69074805892bebd88125290ac65bee83eb53171668a75e89a74d12241e2c4b85']
@@ -579,7 +579,7 @@ export function OnboardingScanIDFrontScreen() {
               >
                 <Img
                   testID="w:14:254"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="absolute start-[0vw] top-[0vw] overflow-hidden"
                   source={
                     assets['69074805892bebd88125290ac65bee83eb53171668a75e89a74d12241e2c4b85']
@@ -615,7 +615,7 @@ export function OnboardingScanIDFrontScreen() {
               >
                 <Img
                   testID="w:14:258"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="absolute start-[0vw] top-[0vw] overflow-hidden"
                   source={
                     assets['69074805892bebd88125290ac65bee83eb53171668a75e89a74d12241e2c4b85']

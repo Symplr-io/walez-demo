@@ -135,7 +135,7 @@ export function AccountProfileScreen() {
                 </Box>
                 <Img
                   testID="w:1:2044"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -193,7 +193,7 @@ export function AccountProfileScreen() {
                 </Box>
                 <Img
                   testID="w:1:2054"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -251,7 +251,7 @@ export function AccountProfileScreen() {
                 </Box>
                 <Img
                   testID="w:1:2064"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -309,7 +309,7 @@ export function AccountProfileScreen() {
                 </Box>
                 <Img
                   testID="w:1:2076"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']

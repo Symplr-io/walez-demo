@@ -101,7 +101,7 @@ export function P2PPayMerchantScreen() {
               >
                 <Img
                   testID="w:1:1317"
-                  accessibilityLabel="icon/clock"
+                  accessibilityLabel="Time"
                   className="absolute start-[3.0769vw] top-[1.7949vw] overflow-hidden"
                   source={
                     assets['b129d8d7ab6092f567fc9d3c4bca2ccbafa7c59549facedf4f2b4316b2c1586c']
@@ -298,7 +298,7 @@ export function P2PPayMerchantScreen() {
                     </Txt>
                     <Img
                       testID="w:1:1343"
-                      accessibilityLabel="icon/copy"
+                      accessibilityLabel="Copy"
                       className="overflow-hidden"
                       source={
                         assets['188db33f02aa3cae59d614fd091da1d2ba360a28fea02b26d1ee046a665b32f9']
@@ -347,7 +347,7 @@ export function P2PPayMerchantScreen() {
                     </Txt>
                     <Img
                       testID="w:1:1351"
-                      accessibilityLabel="icon/copy"
+                      accessibilityLabel="Copy"
                       className="overflow-hidden"
                       source={
                         assets['188db33f02aa3cae59d614fd091da1d2ba360a28fea02b26d1ee046a665b32f9']
@@ -391,7 +391,7 @@ export function P2PPayMerchantScreen() {
                   </Txt>
                   <Img
                     testID="w:1:1359"
-                    accessibilityLabel="icon/copy"
+                    accessibilityLabel="Copy"
                     className="overflow-hidden"
                     source={
                       assets['188db33f02aa3cae59d614fd091da1d2ba360a28fea02b26d1ee046a665b32f9']
@@ -413,7 +413,7 @@ export function P2PPayMerchantScreen() {
             >
               <Img
                 testID="w:1:1363"
-                accessibilityLabel="icon/alert"
+                accessibilityLabel="Warning"
                 className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                 source={assets['2b11a394e40df991784fe5377a2e05c7cb295dca8ae4238365c392bfeb298705']}
                 resizeMode="cover"

@@ -384,7 +384,7 @@ export function WalletBalancesScreen() {
                 >
                   <Img
                     testID="w:I1:849;1:27"
-                    accessibilityLabel="icon/home"
+                    accessibilityLabel="Home"
                     className="overflow-hidden"
                     source={
                       assets['f9616f4ed7f176ac38dd914b1af012a65c1d40a82d4d9a971e392b963bf99d9b']
@@ -417,7 +417,7 @@ export function WalletBalancesScreen() {
                 >
                   <Img
                     testID="w:I1:849;1:32"
-                    accessibilityLabel="icon/card"
+                    accessibilityLabel="Card"
                     className="overflow-hidden"
                     source={
                       assets['d4d4ed4a24f4af85f6bce536458866baa8d504b1c2f7e40f483a222ae311dfaa']
@@ -450,7 +450,7 @@ export function WalletBalancesScreen() {
                 >
                   <Img
                     testID="w:I1:849;1:37"
-                    accessibilityLabel="icon/swap"
+                    accessibilityLabel="Exchange"
                     className="overflow-hidden"
                     source={
                       assets['9ea5b57732c56d367bc2802ea712baf0c2f89a71fbec053037f96732aa8b5138']
@@ -483,7 +483,7 @@ export function WalletBalancesScreen() {
                 >
                   <Img
                     testID="w:I1:849;1:44"
-                    accessibilityLabel="icon/clock"
+                    accessibilityLabel="Time"
                     className="overflow-hidden"
                     source={
                       assets['2b2734e787fc2003abb364f21636573594ac5019445ae659a5f5a1d92a46ae6a']
@@ -516,7 +516,7 @@ export function WalletBalancesScreen() {
                 >
                   <Img
                     testID="w:I1:849;1:49"
-                    accessibilityLabel="icon/user"
+                    accessibilityLabel="Account"
                     className="overflow-hidden"
                     source={
                       assets['5075ae8038b434223a2d82c7af3caa5906acdad6ffcfdf3080a2a8fecd8539b0']

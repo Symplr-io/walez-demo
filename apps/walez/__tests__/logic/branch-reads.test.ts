@@ -2,17 +2,6 @@
 // a screen case mounts a navigator and fires every handler — see withTestTimeout
 jest.setTimeout(30000);
 import {
-  getPath,
-  toStr,
-  pickedIndex,
-  optionIndex,
-  amountOf,
-  listGrowth,
-  pickedRow,
-  samplesWhileEmpty,
-  numText,
-  qtyOf,
-  totalWithFees,
   momentPassed,
   momentAhead,
   momentWithinDays,
@@ -20,11 +9,7 @@ import {
   keptSpace,
   firstWhen,
   pollVerdict,
-  settled,
-  resStatus,
-  parseErrorBody,
   ruleReset,
-  ruleHandled,
   ruleNav,
   firstMatchingRule,
   firstRuleTarget,
@@ -36,8 +21,6 @@ import {
  * carry, ordering and paging, the edges of group/months/pages/tree/split, and
  * the small runtime helpers every screen leans on — at the answers they give.
  */
-const read = <T = unknown>(o: unknown, p: string): T => getPath(o, p) as T;
-const ids = (o: unknown, p: string): unknown[] => read<Array<{ id?: unknown }>>(o, p).map((r) => r.id);
 
 
 
@@ -48,7 +31,6 @@ describe('time windows', () => {
   afterAll(() => {
     jest.useRealTimers();
   });
-  const tx = { records: [{ id: 'old', at: '2026-08-01' }, { id: 'week', at: '2026-10-15' }, { id: 'none', at: '' }] };
   it('a moment that has passed, one still ahead, one within days', () => {
     expect(momentPassed('2026-10-19T00:00:00Z')).toBe(true);
     expect(momentPassed('2026-10-21T00:00:00Z')).toBe(false);

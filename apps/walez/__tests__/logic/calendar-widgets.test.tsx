@@ -51,7 +51,6 @@ function mount(el: React.ReactElement) {
 
 
 describe('one month at the design\'s measurements', () => {
-  const fit = { cell: 40, weekdayRow: 40, weekdayFont: 12, weekdayWeight: 400, dayFont: 14, disc: 40, pickWeight: 500, headFont: 16, headHeight: 56, headInset: 12, headWeight: 500, caret: true, nav: 48 };
   it('reports the first day for a start month, and Cancel closes without choosing', () => {
     const onChange = jest.fn();
     const c = mount(<DateField testID="from" monthPicker="start" placeholder="From" onChange={onChange} />);

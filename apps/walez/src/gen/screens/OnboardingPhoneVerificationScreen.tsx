@@ -223,7 +223,7 @@ export function OnboardingPhoneVerificationScreen() {
               >
                 <Img
                   testID="w:8:271"
-                  accessibilityLabel="icon/clock"
+                  accessibilityLabel="Time"
                   className="absolute start-[4.1026vw] top-[4.1026vw] overflow-hidden"
                   source={
                     assets['724d4f8a760b5c290b87398ff71015c1f0759334c8f06d61a1aa1fe170ed5edd']

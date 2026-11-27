@@ -373,7 +373,7 @@ export function TransferRecipientScreen() {
                     </Box>
                     <Img
                       testID="w:1:1779"
-                      accessibilityLabel="icon/chevron-right"
+                      accessibilityLabel="Open"
                       className="overflow-hidden"
                       source={
                         assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -431,7 +431,7 @@ export function TransferRecipientScreen() {
                     </Box>
                     <Img
                       testID="w:1:1779"
-                      accessibilityLabel="icon/chevron-right"
+                      accessibilityLabel="Open"
                       className="overflow-hidden"
                       source={
                         assets['292031437b31134f4b10ac19f0bc501381b12692bce8f84851a533187bc0277f']
@@ -453,7 +453,7 @@ export function TransferRecipientScreen() {
               >
                 <Img
                   testID="w:1:1782"
-                  accessibilityLabel="icon/alert"
+                  accessibilityLabel="Warning"
                   className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                   source={
                     assets['2b11a394e40df991784fe5377a2e05c7cb295dca8ae4238365c392bfeb298705']

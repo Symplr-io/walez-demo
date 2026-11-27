@@ -3,10 +3,7 @@
 jest.setTimeout(30000);
 import { getPath } from '../../src/gen/branch';
 
-type Entry = { key: string; label: string; total: number; share: number; legend: string; sum?: string };
-type TreeRow = { id: string; depth: number; parentPct: string; alsoHeldBy: string; legalName: string };
 const read = <T = unknown>(o: unknown, p: string): T => getPath(o, p) as T;
-const ids = (o: unknown, p: string): string[] => read<Array<{ id: string }>>(o, p).map((r) => r.id);
 
 describe('plain paths', () => {
   const profile = {

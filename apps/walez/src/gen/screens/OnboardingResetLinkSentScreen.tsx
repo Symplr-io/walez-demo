@@ -106,7 +106,7 @@ export function OnboardingResetLinkSentScreen() {
             >
               <Img
                 testID="w:35:284"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="absolute start-[4.1026vw] top-[6.1538vw] overflow-hidden"
                 source={assets['773241439deb4019701796b3371e0a4b19fe312f01c2a9205966764d568336a0']}
                 resizeMode="cover"

@@ -150,7 +150,7 @@ export function P2PRaiseADisputeScreen() {
                 </Txt>
                 <Img
                   testID="w:23:287"
-                  accessibilityLabel="icon/chevron-right"
+                  accessibilityLabel="Open"
                   className="overflow-hidden"
                   source={
                     assets['81756a4d2beaec48bb7774eb8839f877a0284beb7e79658ff681f67b0c95ebeb']
@@ -181,7 +181,7 @@ export function P2PRaiseADisputeScreen() {
               >
                 <Img
                   testID="w:23:292"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="overflow-hidden"
                   source={
                     assets['73f441b42ac306fbc7d8b15c068dedb772acea37a5a4aadd0681c74aefa9afb8']
@@ -244,7 +244,7 @@ export function P2PRaiseADisputeScreen() {
             >
               <Img
                 testID="w:23:297"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="overflow-hidden"
                 source={assets['773241439deb4019701796b3371e0a4b19fe312f01c2a9205966764d568336a0']}
                 resizeMode="cover"

@@ -101,7 +101,7 @@ export function Screen04P2PEscrowScreen() {
               >
                 <Img
                   testID="w:1:1118"
-                  accessibilityLabel="icon/clock"
+                  accessibilityLabel="Time"
                   className="absolute start-[3.0769vw] top-[1.7949vw] overflow-hidden"
                   source={
                     assets['b129d8d7ab6092f567fc9d3c4bca2ccbafa7c59549facedf4f2b4316b2c1586c']

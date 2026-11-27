@@ -231,7 +231,7 @@ export function OnboardingSelfieScreen() {
               >
                 <Img
                   testID="w:14:272"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="absolute start-[0vw] top-[0vw] overflow-hidden"
                   source={
                     assets['69074805892bebd88125290ac65bee83eb53171668a75e89a74d12241e2c4b85']
@@ -267,7 +267,7 @@ export function OnboardingSelfieScreen() {
               >
                 <Img
                   testID="w:14:276"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="absolute start-[0vw] top-[0vw] overflow-hidden"
                   source={
                     assets['69074805892bebd88125290ac65bee83eb53171668a75e89a74d12241e2c4b85']
@@ -303,7 +303,7 @@ export function OnboardingSelfieScreen() {
               >
                 <Img
                   testID="w:14:280"
-                  accessibilityLabel="icon/tick"
+                  accessibilityLabel="Done"
                   className="absolute start-[0vw] top-[0vw] overflow-hidden"
                   source={
                     assets['69074805892bebd88125290ac65bee83eb53171668a75e89a74d12241e2c4b85']
@@ -340,7 +340,7 @@ export function OnboardingSelfieScreen() {
             >
               <Img
                 testID="w:14:284"
-                accessibilityLabel="icon/shield-tick"
+                accessibilityLabel="Privacy-tick"
                 className="absolute start-[0vw] top-[2.0513vw] overflow-hidden"
                 source={assets['bdf9a8356f167999db56e6809b06a69a791772359d92f43d2a8a34b100666e90']}
                 resizeMode="cover"
